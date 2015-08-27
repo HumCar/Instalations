@@ -1,2 +1,2 @@
-# Instalations
-Data base to control instalations and installers 
+# Installations
+Data base to control installations and installers 
